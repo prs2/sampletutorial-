@@ -4,9 +4,11 @@
 
 void flmMrTask()
 {
+	
+  flashMgrInit();	  
   while(1)
   {
-	  
+
   }
 
 }
